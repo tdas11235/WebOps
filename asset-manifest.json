@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tdas11235/WebOps.git/static/css/main.073c9b0a.css",
+    "main.js": "/tdas11235/WebOps.git/static/js/main.4bc84196.js",
+    "static/js/787.fb9b61d8.chunk.js": "/tdas11235/WebOps.git/static/js/787.fb9b61d8.chunk.js",
+    "index.html": "/tdas11235/WebOps.git/index.html",
+    "main.073c9b0a.css.map": "/tdas11235/WebOps.git/static/css/main.073c9b0a.css.map",
+    "main.4bc84196.js.map": "/tdas11235/WebOps.git/static/js/main.4bc84196.js.map",
+    "787.fb9b61d8.chunk.js.map": "/tdas11235/WebOps.git/static/js/787.fb9b61d8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.4bc84196.js"
+  ]
+}
